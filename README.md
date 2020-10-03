@@ -1,4 +1,4 @@
-Rufus: The Reliable USB Formatting Utility
+Rufus: The Reliable USB Formatting And Bootable Software
 ==========================================
 
 [![Build status](https://img.shields.io/appveyor/ci/pbatard/rufus.svg?style=flat-square)](https://ci.appveyor.com/project/pbatard/rufus)
@@ -29,7 +29,8 @@ Features
 * Small footprint. No installation required.
 * Portable
 * 100% [Free Software](https://www.gnu.org/philosophy/free-sw) ([GPL v3](https://www.gnu.org/licenses/gpl-3.0))
-
+* Easy to use.
+* 100% reliable and makes your work easy to go.
 Compilation
 -----------
 
